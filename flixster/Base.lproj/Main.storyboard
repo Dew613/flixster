@@ -60,6 +60,7 @@
                                                 <constraint firstItem="5TK-8a-DNe" firstAttribute="top" secondItem="JFY-rd-kZI" secondAttribute="bottom" constant="8.3333333333333286" id="R3M-Kz-eIH"/>
                                                 <constraint firstItem="JFY-rd-kZI" firstAttribute="top" secondItem="sry-m5-pUG" secondAttribute="topMargin" id="abt-mW-hxX"/>
                                                 <constraint firstItem="fcb-Yr-kmy" firstAttribute="top" secondItem="sry-m5-pUG" secondAttribute="topMargin" constant="-1" id="dZ9-ip-iZr"/>
+                                                <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="fcb-Yr-kmy" secondAttribute="bottom" constant="10" id="j5C-gj-pGh"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="JFY-rd-kZI" secondAttribute="trailing" constant="-15" id="rJp-Hh-PNr"/>
                                             </constraints>
                                         </tableViewCellContentView>
